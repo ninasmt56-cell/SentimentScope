@@ -1,0 +1,6 @@
+streamlit
+pandas
+google-play-scraper
+matplotlib
+plotly
+wordcloud
